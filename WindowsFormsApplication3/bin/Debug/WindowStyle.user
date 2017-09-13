@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<uWindowStyle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SkinName>Office 2010 Blue</SkinName>
+  <PaintStyleName>NavigationPane</PaintStyleName>
+  <PanelMenuDock>Float</PanelMenuDock>
+  <BarMenuDock>Top</BarMenuDock>
+  <IsTabbedMdi>true</IsTabbedMdi>
+  <MdiLayout>Cascade</MdiLayout>
+</uWindowStyle>

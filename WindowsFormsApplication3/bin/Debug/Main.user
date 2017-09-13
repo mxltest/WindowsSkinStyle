@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<LogonConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsLogOnned>true</IsLogOnned>
+  <LocalModel>true</LocalModel>
+  <MachineID>68:F7:28:80:5C:25</MachineID>
+  <Server>localhost</Server>
+  <Port>7300</Port>
+  <LastAccount>MES195Test</LastAccount>
+  <LastUser>admin</LastUser>
+  <AllowAutoUpdate>true</AllowAutoUpdate>
+  <LastLogonItem>系统管理</LastLogonItem>
+</LogonConfiguration>
